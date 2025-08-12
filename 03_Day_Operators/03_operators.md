@@ -75,7 +75,7 @@ print('Division: ', 7 / 2)        # 3.5
 print('Division without the remainder: ', 7 // 2)   # 3,  gives without the floating number or without the remaining
 print ('Division without the remainder: ',7 // 3)   # 2
 print('Modulus: ', 3 % 2)         # 1, Gives the remainder
-print('Exponentiation: ', 2 ** 3) # 9 it means 2 * 2 * 2
+print('Exponentiation: ', 2 ** 3) # 8 it means 2 * 2 * 2
 ```
 
 **Example:Floats**
@@ -102,7 +102,7 @@ Let's declare a variable and assign a number data type. I am going to use single
 # Declaring the variable at the top first
 
 a = 3 # a is a variable name and 3 is an integer data type
-b = 2 # b is a variable name and 3 is an integer data type
+b = 2 # b is a variable name and 2 is an integer data type
 
 # Arithmetic operations and assigning the result to a variable
 total = a + b
